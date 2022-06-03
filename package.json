@@ -1,0 +1,24 @@
+{
+  "name": "pojsbot",
+  "version": "1.0.0",
+  "description": "jsbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoiskDo/poJSbot.git"
+  },
+  "author": "sujeb2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PoiskDo/poJSbot/issues"
+  },
+  "homepage": "https://github.com/PoiskDo/poJSbot#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dokdo": "^0.5.1",
+    "dotenv": "^16.0.1"
+  }
+}
